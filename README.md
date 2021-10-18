@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @peltsippi
+- 🏭 Mechanical engineer focusing on software development stuff
+- 👀 I’m interested in various things
+- 🌱 I’m currently learning TDD/Project Management etc
+- 💞️ I’m looking to collaborate on: feel free to ask
+- 📫 You can email me peltsip@gmail.com
