@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @peltsippi
 - 🏭 Mechanical engineer focusing on software development stuff
+- Been building embedded test devices and various projects
 - 👀 I’m interested in various things
 - 🌱 I’m currently learning TDD/Project Management etc
 - 💞️ I’m looking to collaborate on: feel free to ask
